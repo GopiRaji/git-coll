@@ -12,6 +12,6 @@ public static void main(String []args){
 Scanner sc=new Scanner(System.in);
 int a=sc.nextInt();
 int b=sc.nextInt();
-Calci c=new Calci();
+CalciImp c=new CalciImp();
 System.out.println(c.add(a,b));
 }}
