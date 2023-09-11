@@ -1,6 +1,6 @@
 import java.util.Scanner;
 interface Calci{
-int getSum(int a,int b);
+int add(int a,int b);
 }
 
 class CalciImp implements Calci{
